@@ -47,7 +47,7 @@ document.addEventListener("DOMContentLoaded", function () {
     if (emailCard) {
         emailCard.addEventListener("click", function (e) {
             e.preventDefault();
-            const email = "hello@arguxx.dev";
+            const email = "argianradityaputra21@gmail.com";
 
             // Try to copy to clipboard
             if (navigator.clipboard) {
